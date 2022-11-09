@@ -1,0 +1,1 @@
+java -cp Efiscen_guifx.jar efi.efiscen.cli.EfiscenCLI steps=5 thinning=1.0 felling=1.5 experiment=utopia.efs scaling=1.0 outputfile=utopia_output
